@@ -12,7 +12,7 @@ Let's visualize how the population has changed over the years for different coun
 
 ## Dashboard🖼️
 
-![Screenshot 2025-01-12 230836](https://github.com/user-attachments/assets/4a76dfb1-e0c1-4810-8f05-abcc7036eafe)
+![Screenshot 2025-01-12 230836](https://github.com/user-attachments/assets/9ff2b4ac-9982-4393-ab67-ad1beef9f5cc)
 
 ## Observations👓
 
